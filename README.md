@@ -6,5 +6,5 @@ Repositório criado para organizar os estudos/projetos internos da equipe de Pro
   
     📍 Arquivo "instruções.pdf" contém todas as informações necessárias para realizar o projeto; 
     📍 O conjunto á ser trabalhado inicialmente é o train.csv; 
-    📍 Prazo de 40 dias para entrega e discussão dos resultados (18/03 até 28/04).
+    📍 Prazo de 40 dias para entrega e discussão dos resultados.
     📍 Referência: dados retirados do Kaggle - https://www.kaggle.com/c/titanic 
